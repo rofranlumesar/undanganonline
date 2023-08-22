@@ -155,6 +155,12 @@ section #text span {
     margin-bottom: 10px;
 }
 
+.sec #tIp {
+    width: 34.5em;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
 .sec p {
     font-size: 1em;
     color: pink;
